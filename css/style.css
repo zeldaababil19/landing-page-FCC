@@ -216,6 +216,11 @@ nav > ul {
   justify-content: center;
 }
 
+#renggang {
+  padding: 5px;
+  margin: 5px;
+}
+
 /* #preview > iframe {
   max-width: 560px;
   width: 100%;
